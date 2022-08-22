@@ -954,6 +954,9 @@ from .mixcloud import (
     MixcloudUserIE,
     MixcloudPlaylistIE,
 )
+from .mixupload import (
+        MixUploadIE,
+)
 from .mlb import (
     MLBIE,
     MLBVideoIE,
